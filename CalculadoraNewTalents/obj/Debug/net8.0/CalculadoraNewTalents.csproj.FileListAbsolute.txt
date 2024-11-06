@@ -1,0 +1,15 @@
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\bin\Debug\net8.0\CalculadoraNewTalents.exe
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\bin\Debug\net8.0\CalculadoraNewTalents.deps.json
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\bin\Debug\net8.0\CalculadoraNewTalents.runtimeconfig.json
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\bin\Debug\net8.0\CalculadoraNewTalents.dll
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\bin\Debug\net8.0\CalculadoraNewTalents.pdb
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.AssemblyInfoInputs.cache
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.AssemblyInfo.cs
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.csproj.CoreCompileInputs.cache
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.sourcelink.json
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.dll
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\refint\CalculadoraNewTalents.dll
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.pdb
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\CalculadoraNewTalents.genruntimeconfig.cache
+C:\treinamento_prumma_dio_c#\repositorioC#\calculadoraSharp\CalculadoraNewTalents\obj\Debug\net8.0\ref\CalculadoraNewTalents.dll
